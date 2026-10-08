@@ -1,0 +1,26 @@
+# This repository is your whole course folder. These stay on your laptop.
+
+# Course tutor setup (it works without being committed)
+.github/
+.vscode/
+AGENTS.md
+.learning/
+
+# Data and secrets (session 2.2). Explain in project/README.md how to get the data.
+data/
+.env
+
+# Python environment and clutter. Commit requirements.txt, not .venv/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Course downloads: slides, PDFs and zips. Use "git add -f" if you really need one.
+*.pptx
+*.pdf
+*.zip
+
+# OS clutter
+.DS_Store
+Thumbs.db
