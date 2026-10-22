@@ -1,6 +1,6 @@
 # Intermediate Data Science 2026 — your course folder
 
-This folder is where you do all your work for the module. It comes with an AI
+EDIT This folder is where you do all your work for the module. It comes with an AI
 tutor already set up: when you open it in VS Code, the AI assistant coaches you
 towards answers instead of handing them over.
 
